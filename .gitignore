@@ -4,3 +4,4 @@
 data/keras_model/
 data/demomodule/
 data/autograph/
+data/tf_model_savedmodel/
